@@ -2,7 +2,7 @@
 
 A Vue quick start project that shows how to customize the Syncfusion [Vue Query Builder](https://www.syncfusion.com/vue-components/vue-query-builder?utm_source=github&utm_medium=listing&utm_campaign=tutorial-videos-vue-query-builder-templates-sample) component using templates. This project contains simple code to customize the headers, columns, and rules of the Query Builder’s UI.
 
-Watch the video: https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=how-to-customize-the-vue-query-builder-component-using
+Watch the video: [https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=how-to-customize-the-vue-query-builder-component-using-Templates](https://www.syncfusion.com/tutorial-videos/vue/query-builder?title=how-to-customize-the-vue-query-builder-component-using)
 
 Refer to the documentation to learn about the Vue Query Builder component: https://ej2.syncfusion.com/vue/documentation/query-builder/templates  
 
